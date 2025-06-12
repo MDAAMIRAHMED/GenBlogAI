@@ -62,6 +62,11 @@ for ent in doc.ents:
     print(ent.text, "->", ent.label_)
 ```
 
+## 📸 UI Screenshots
+
+### 🔹 Demo Page
+![Demo Page](demo.png)
+
 ## 🤝 Contributing
 
 This project is currently maintained by me. Feel free to open issues or suggest improvements.
